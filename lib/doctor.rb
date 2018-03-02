@@ -6,6 +6,6 @@ class Doctor
      @appointments = []
    end
 
-   
+
 
 end
